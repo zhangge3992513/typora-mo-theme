@@ -19,7 +19,9 @@ content #write {
   padding-bottom: 7.5rem;
   font-family: "Fira Code", "微软雅黑","PingFang SC", "Microsoft YaHei", sans-serif;
 }
-
+.cm-s-inner .cm-header, .cm-s-inner.cm-header{
+  color: #15eab9;
+}
 content #write p {
   word-spacing: 0.05rem;
 }
